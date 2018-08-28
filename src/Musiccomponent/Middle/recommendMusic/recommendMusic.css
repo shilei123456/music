@@ -1,0 +1,22 @@
+.recommendMusic{
+  width: 100%;
+  height: auto;
+}
+.recommendMusic-top{
+  width: 90%;
+  height: 45px;
+  margin-left: 18px;
+  border-bottom: 1px linen solid;
+}
+.recommendMusic-top h3{
+  line-height: 42px;
+  padding-left: 8px;
+}
+.recommendMusic-bottom {
+  width: 100%;
+  margin-top: -25px;
+  padding: 25px 41px;
+}
+.recommendMusic-bottom p{
+  margin-top: 20px;
+}
